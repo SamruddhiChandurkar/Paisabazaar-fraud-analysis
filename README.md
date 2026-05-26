@@ -6,3 +6,13 @@ Exploratory Data Analysis (EDA) project on banking fraud data using Python, Pand
 - Fraud Analysis
 - Visualizations
 - Insights using Python
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+## Data Cleaning
+- Removed duplicates
+- Checked null values
+- Cleaned dataset
