@@ -12,6 +12,7 @@ Exploratory Data Analysis (EDA) project on banking fraud data using Python, Pand
 - NumPy
 - Matplotlib
 - Seaborn
+- 
 ## Data Cleaning
 - Removed duplicates
 - Checked null values
