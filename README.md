@@ -7,37 +7,60 @@ Exploratory Data Analysis (EDA) project on banking fraud data using Python, Pand
 - Visualizations
 - Insights using Python
 
+---
+
 ## Libraries Used
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- 
+
+----
+
 ## Data Cleaning
 - Removed duplicates
 - Checked null values
 - Cleaned dataset
 
-## Data Visualization & Analysis
+---
 
-Performed Exploratory Data Analysis (EDA) using multiple visualization techniques to identify patterns, correlations, and fraud-related insights from the dataset.
+- ## Exploratory Data Analysis (EDA)
 
-### Uploaded Sample Visualizations
+### Univariate Analysis
+Performed analysis on individual variables to understand distribution and patterns.
 
-- **Histogram (Univariate Analysis)**  
-  Age Distribution Analysis
+#### Visualizations:
+- Histogram — Age Distribution
+- Distribution plots
+- Count plots
 
-- **Box Plot (Bivariate Analysis)**  
-  Income vs Credit Score Analysis
+---
 
-- **Correlation Heatmap (Multivariate Analysis)**  
-  Correlation between numerical features
+### Bivariate Analysis
+Analyzed relationships between two variables.
 
-- **Pair Plot (Multivariate Analysis)**  
-  Relationship analysis across multiple variables
+#### Visualizations:
+- Box Plot — Income vs Credit Score
+- Scatter plots
+- Comparative analysis charts
 
-- **Count Plot (Multivariate Analysis)**  
-  Credit Score vs Payment Behavior
+---
 
-> Note: More than 20 visualizations were created during the EDA process.  
-> Only selected charts from each analysis category were uploaded to represent the overall analysis workflow.
+### Multivariate Analysis
+Analyzed relationships between multiple variables simultaneously.
+
+#### Visualizations:
+- Correlation Heatmap
+- Pair Plot
+- Count Plot — Credit Score vs Payment Behavior
+
+---
+
+## Visualization Summary
+More than 20 visualizations were created during the EDA process.  
+Selected representative charts from each analysis category were uploaded to provide a concise overview of the analysis workflow.
+
+All uploaded charts are available inside the `charts` folder.
+
+---
+
