@@ -1,4 +1,4 @@
-# Paisabazaar-fraud-analysis
+# Paisabazaar-banking-fraud-analysis
 Exploratory Data Analysis (EDA) project on banking fraud data using Python, Pandas, NumPy, Matplotlib, and Seaborn to identify fraud patterns, trends, and insights.
 
 ## Project Features
@@ -24,13 +24,13 @@ Exploratory Data Analysis (EDA) project on banking fraud data using Python, Pand
 
 ---
 
-- ## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Univariate Analysis
 Performed analysis on individual variables to understand distribution and patterns.
 
 #### Visualizations:
-- Histogram — Age Distribution
+- Histogram — Age Distribution 
 - Distribution plots
 - Count plots
 
@@ -63,6 +63,7 @@ Selected representative charts from each analysis category were uploaded to prov
 All uploaded charts are available inside the `charts` folder.
 
 ---
+
 ## Key Insights :
 
 * Certain income groups showed higher fraud probability
@@ -72,5 +73,21 @@ All uploaded charts are available inside the `charts` folder.
 
 ---
 
+## Business Recommendations
 
+* Implement real-time fraud monitoring systems
+* Improve customer verification and authentication processes
+* Focus monitoring on high-risk transaction categories
+* Develop predictive fraud detection models using machine learning
+* Increase fraud awareness and security measures for customers
 
+---
+
+## Project Outcome
+
+The project successfully identified important fraud trends and provided actionable business insights that can help improve banking security, reduce fraudulent activities, and support better financial decision-making.
+
+---
+## Thank you
+Thank you for reviewing this project!
+If you found it interesting, feel free to ⭐ the repository.
