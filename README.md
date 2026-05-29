@@ -63,4 +63,14 @@ Selected representative charts from each analysis category were uploaded to prov
 All uploaded charts are available inside the `charts` folder.
 
 ---
+## Key Insights :
+
+* Certain income groups showed higher fraud probability
+* Customers with multiple loans had increased fraud risk
+* Some occupations had higher suspicious activity rates
+* Fraudulent transactions were concentrated in specific categories
+
+---
+
+
 
